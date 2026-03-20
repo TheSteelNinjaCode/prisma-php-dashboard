@@ -83,7 +83,6 @@ function signin($data)
         const data = Object.fromEntries(formData.entries());
 
         const response = await pp.fetchFunction('signin', data);
-        console.log(response);
 
         if (response.success) {
             setRequestMessage('');
