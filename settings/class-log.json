@@ -1,0 +1,86 @@
+{
+  "Lib\\PHPXUI\\Button": {
+    "filePath": "Lib\\PHPXUI\\Button.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\Input": {
+    "filePath": "Lib\\PHPXUI\\Input.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\Portal": {
+    "filePath": "Lib\\PHPXUI\\Portal.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\Slot": {
+    "filePath": "Lib\\PHPXUI\\Slot.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\ArrowLeft": {
+    "filePath": "Lib\\PPIcons\\ArrowLeft.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\ArrowRight": {
+    "filePath": "Lib\\PPIcons\\ArrowRight.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\Calendar": {
+    "filePath": "Lib\\PPIcons\\Calendar.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\Check": {
+    "filePath": "Lib\\PPIcons\\Check.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\ChevronDown": {
+    "filePath": "Lib\\PPIcons\\ChevronDown.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\ChevronLeft": {
+    "filePath": "Lib\\PPIcons\\ChevronLeft.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\ChevronRight": {
+    "filePath": "Lib\\PPIcons\\ChevronRight.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\ChevronsUpDown": {
+    "filePath": "Lib\\PPIcons\\ChevronsUpDown.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\ChevronUp": {
+    "filePath": "Lib\\PPIcons\\ChevronUp.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\Circle": {
+    "filePath": "Lib\\PPIcons\\Circle.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\Ellipsis": {
+    "filePath": "Lib\\PPIcons\\Ellipsis.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\Minus": {
+    "filePath": "Lib\\PPIcons\\Minus.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\PanelLeft": {
+    "filePath": "Lib\\PPIcons\\PanelLeft.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\Search": {
+    "filePath": "Lib\\PPIcons\\Search.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\X": {
+    "filePath": "Lib\\PPIcons\\X.php",
+    "baseDir": "src"
+  },
+  "PP\\PHPX\\Fragment": {
+    "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\Fragment.php",
+    "baseDir": "vendor/tsnc/prisma-php/src"
+  },
+  "PP\\PHPX\\PHPX": {
+    "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+    "baseDir": "vendor/tsnc/prisma-php/src"
+  }
+}

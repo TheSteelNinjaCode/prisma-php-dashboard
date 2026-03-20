@@ -1,0 +1,17 @@
+{
+  "style": "new-york",
+  "force": false,
+  "outputDir": "src/Lib/PHPXUI",
+  "iconsInstalled": true,
+  "tailwind": {
+    "css": "src/app/globals.css",
+    "baseColor": "neutral",
+    "cssVariables": true,
+    "prefix": ""
+  },
+  "psr4": {
+    "Components": "src/Lib/PHPXUI/",
+    "Icons": "src/Lib/PPIcons/"
+  },
+  "iconLibrary": "ppicons"
+}

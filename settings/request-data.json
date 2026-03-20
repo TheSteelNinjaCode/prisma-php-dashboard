@@ -1,0 +1,30 @@
+{
+    "\/": {
+        "url": "\/",
+        "fileName": "index",
+        "isCacheable": null,
+        "cacheTtl": 0,
+        "includedFiles": [
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\index.php"
+        ]
+    },
+    "dashboard": {
+        "url": "dashboard",
+        "fileName": "dashboard",
+        "isCacheable": null,
+        "cacheTtl": 0,
+        "includedFiles": [
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\index.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\layout.php"
+        ]
+    },
+    "signin": {
+        "url": "signin",
+        "fileName": "signin",
+        "isCacheable": null,
+        "cacheTtl": 0,
+        "includedFiles": [
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\(auth)\\signin\\index.php"
+        ]
+    }
+}

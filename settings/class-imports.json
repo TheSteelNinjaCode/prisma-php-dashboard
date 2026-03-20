@@ -1,0 +1,120 @@
+{
+  "Button": [
+    {
+      "className": "Lib\\PHPXUI\\Button",
+      "filePath": "Lib\\PHPXUI\\Button.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\(auth)\\signin\\index.php"
+    }
+  ],
+  "Input": [
+    {
+      "className": "Lib\\PHPXUI\\Input",
+      "filePath": "Lib\\PHPXUI\\Input.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\(auth)\\signin\\index.php"
+    }
+  ],
+  "PHPX": [
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PHPXUI\\Button.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PHPXUI\\Input.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PHPXUI\\Portal.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PHPXUI\\Slot.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\ArrowLeft.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\ArrowRight.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\Calendar.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\Check.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\ChevronDown.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\ChevronLeft.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\ChevronRight.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\ChevronsUpDown.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\ChevronUp.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\Circle.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\Ellipsis.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\Minus.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\PanelLeft.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\Search.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\X.php"
+    }
+  ],
+  "Slot": [
+    {
+      "className": "Lib\\PHPXUI\\Slot",
+      "filePath": "Lib\\PHPXUI\\Slot.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PHPXUI\\Button.php"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  "./src/app/(auth)/signin/index.php",
+  "./src/app/dashboard/index.php",
+  "./src/app/dashboard/layout.php",
+  "./src/app/error.php",
+  "./src/app/globals.css",
+  "./src/app/index.php",
+  "./src/app/layout.php",
+  "./src/app/not-found.php",
+  "./public/.htaccess",
+  "./public/assets/images/file.svg",
+  "./public/assets/images/globe.svg",
+  "./public/assets/images/prisma-php.svg",
+  "./public/assets/images/window.svg",
+  "./public/css/styles.css",
+  "./public/favicon.ico",
+  "./public/index.php",
+  "./public/js/main.js",
+  "./public/js/pp-reactive-v1.js"
+]

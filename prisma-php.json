@@ -1,0 +1,27 @@
+{
+  "projectName": "prisma-php-dashboard",
+  "projectRootPath": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard",
+  "phpEnvironment": "XAMPP",
+  "phpRootPathExe": "C:\\xampp\\php\\php.exe",
+  "bsTarget": "http://localhost/projects/prisma-php/starter-kits/prisma-php-dashboard/",
+  "bsPathRewrite": {
+    "^/": "/projects/prisma-php/starter-kits/prisma-php-dashboard/"
+  },
+  "backendOnly": false,
+  "swaggerDocs": false,
+  "tailwindcss": true,
+  "websocket": false,
+  "mcp": false,
+  "prisma": true,
+  "docker": false,
+  "typescript": false,
+  "version": "4.4.6",
+  "componentScanDirs": [
+    "src",
+    "vendor/tsnc/prisma-php/src"
+  ],
+  "excludeFiles": [
+    ".env",
+    "./prisma/schema.prisma"
+  ]
+}
