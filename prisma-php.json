@@ -22,6 +22,8 @@
   ],
   "excludeFiles": [
     ".env",
-    "./prisma/schema.prisma"
+    "./prisma/schema.prisma",
+    "./src/app/globals.css",
+    "./src/Lib/Auth/AuthConfig.php"
   ]
 }

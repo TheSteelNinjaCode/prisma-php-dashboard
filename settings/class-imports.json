@@ -4,6 +4,11 @@
       "className": "Lib\\PHPXUI\\Button",
       "filePath": "Lib\\PHPXUI\\Button.php",
       "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\(auth)\\signin\\index.php"
+    },
+    {
+      "className": "Lib\\PHPXUI\\Button",
+      "filePath": "Lib\\PHPXUI\\Button.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\sidebar.php"
     }
   ],
   "Input": [
@@ -11,6 +16,55 @@
       "className": "Lib\\PHPXUI\\Input",
       "filePath": "Lib\\PHPXUI\\Input.php",
       "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\(auth)\\signin\\index.php"
+    }
+  ],
+  "ChartNoAxesCombined": [
+    {
+      "className": "Lib\\PPIcons\\ChartNoAxesCombined",
+      "filePath": "Lib\\PPIcons\\ChartNoAxesCombined.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\sidebar.php"
+    }
+  ],
+  "CircleHelp": [
+    {
+      "className": "Lib\\PPIcons\\CircleHelp",
+      "filePath": "Lib\\PPIcons\\CircleHelp.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\sidebar.php"
+    }
+  ],
+  "FileText": [
+    {
+      "className": "Lib\\PPIcons\\FileText",
+      "filePath": "Lib\\PPIcons\\FileText.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\sidebar.php"
+    }
+  ],
+  "LayoutDashboard": [
+    {
+      "className": "Lib\\PPIcons\\LayoutDashboard",
+      "filePath": "Lib\\PPIcons\\LayoutDashboard.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\sidebar.php"
+    }
+  ],
+  "LogOut": [
+    {
+      "className": "Lib\\PPIcons\\LogOut",
+      "filePath": "Lib\\PPIcons\\LogOut.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\sidebar.php"
+    }
+  ],
+  "Settings": [
+    {
+      "className": "Lib\\PPIcons\\Settings",
+      "filePath": "Lib\\PPIcons\\Settings.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\sidebar.php"
+    }
+  ],
+  "Users": [
+    {
+      "className": "Lib\\PPIcons\\Users",
+      "filePath": "Lib\\PPIcons\\Users.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\sidebar.php"
     }
   ],
   "PHPX": [
@@ -52,6 +106,11 @@
     {
       "className": "PP\\PHPX\\PHPX",
       "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\ChartNoAxesCombined.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
       "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\Check.php"
     },
     {
@@ -87,7 +146,27 @@
     {
       "className": "PP\\PHPX\\PHPX",
       "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\CircleHelp.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
       "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\Ellipsis.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\FileText.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\LayoutDashboard.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\LogOut.php"
     },
     {
       "className": "PP\\PHPX\\PHPX",
@@ -103,6 +182,16 @@
       "className": "PP\\PHPX\\PHPX",
       "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
       "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\Search.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\Settings.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\Users.php"
     },
     {
       "className": "PP\\PHPX\\PHPX",

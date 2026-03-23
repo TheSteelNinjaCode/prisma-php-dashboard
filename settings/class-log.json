@@ -27,6 +27,10 @@
     "filePath": "Lib\\PPIcons\\Calendar.php",
     "baseDir": "src"
   },
+  "Lib\\PPIcons\\ChartNoAxesCombined": {
+    "filePath": "Lib\\PPIcons\\ChartNoAxesCombined.php",
+    "baseDir": "src"
+  },
   "Lib\\PPIcons\\Check": {
     "filePath": "Lib\\PPIcons\\Check.php",
     "baseDir": "src"
@@ -55,8 +59,24 @@
     "filePath": "Lib\\PPIcons\\Circle.php",
     "baseDir": "src"
   },
+  "Lib\\PPIcons\\CircleHelp": {
+    "filePath": "Lib\\PPIcons\\CircleHelp.php",
+    "baseDir": "src"
+  },
   "Lib\\PPIcons\\Ellipsis": {
     "filePath": "Lib\\PPIcons\\Ellipsis.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\FileText": {
+    "filePath": "Lib\\PPIcons\\FileText.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\LayoutDashboard": {
+    "filePath": "Lib\\PPIcons\\LayoutDashboard.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\LogOut": {
+    "filePath": "Lib\\PPIcons\\LogOut.php",
     "baseDir": "src"
   },
   "Lib\\PPIcons\\Minus": {
@@ -69,6 +89,14 @@
   },
   "Lib\\PPIcons\\Search": {
     "filePath": "Lib\\PPIcons\\Search.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\Settings": {
+    "filePath": "Lib\\PPIcons\\Settings.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\Users": {
+    "filePath": "Lib\\PPIcons\\Users.php",
     "baseDir": "src"
   },
   "Lib\\PPIcons\\X": {

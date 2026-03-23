@@ -8,6 +8,15 @@
             "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\index.php"
         ]
     },
+    "signin": {
+        "url": "signin",
+        "fileName": "signin",
+        "isCacheable": null,
+        "cacheTtl": 0,
+        "includedFiles": [
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\(auth)\\signin\\index.php"
+        ]
+    },
     "dashboard": {
         "url": "dashboard",
         "fileName": "dashboard",
@@ -18,13 +27,14 @@
             "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\layout.php"
         ]
     },
-    "signin": {
-        "url": "signin",
-        "fileName": "signin",
+    "dashboard\/settings": {
+        "url": "dashboard\/settings",
+        "fileName": "dashboard_settings",
         "isCacheable": null,
         "cacheTtl": 0,
         "includedFiles": [
-            "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\(auth)\\signin\\index.php"
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\settings\\index.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\layout.php"
         ]
     }
 }

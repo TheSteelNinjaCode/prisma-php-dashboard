@@ -1,7 +1,10 @@
 [
   "./src/app/(auth)/signin/index.php",
+  "./src/app/dashboard/header.php",
   "./src/app/dashboard/index.php",
   "./src/app/dashboard/layout.php",
+  "./src/app/dashboard/settings/index.php",
+  "./src/app/dashboard/sidebar.php",
   "./src/app/error.php",
   "./src/app/globals.css",
   "./src/app/index.php",
