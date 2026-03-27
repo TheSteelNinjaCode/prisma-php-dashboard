@@ -15,6 +15,7 @@ MainLayout::$description = !empty(MainLayout::$description) ? MainLayout::$descr
     <!-- Dynamic Header Scripts -->
     <link href="/css/styles.css" rel="stylesheet" /> 
     <script type="module" src="/js/main.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
 </head>
 
 <body pp-spa="true" style="opacity:0;pointer-events:none;user-select:none;transition:opacity .18s ease-out;">

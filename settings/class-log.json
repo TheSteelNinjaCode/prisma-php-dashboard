@@ -3,8 +3,92 @@
     "filePath": "Lib\\PHPXUI\\Button.php",
     "baseDir": "src"
   },
+  "Lib\\PHPXUI\\Dialog": {
+    "filePath": "Lib\\PHPXUI\\Dialog.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\DialogTrigger": {
+    "filePath": "Lib\\PHPXUI\\Dialog.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\DialogClose": {
+    "filePath": "Lib\\PHPXUI\\Dialog.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\DialogOverlay": {
+    "filePath": "Lib\\PHPXUI\\Dialog.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\DialogContent": {
+    "filePath": "Lib\\PHPXUI\\Dialog.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\DialogHeader": {
+    "filePath": "Lib\\PHPXUI\\Dialog.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\DialogFooter": {
+    "filePath": "Lib\\PHPXUI\\Dialog.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\DialogTitle": {
+    "filePath": "Lib\\PHPXUI\\Dialog.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\DialogDescription": {
+    "filePath": "Lib\\PHPXUI\\Dialog.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\DropdownMenu": {
+    "filePath": "Lib\\PHPXUI\\DropdownMenu.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\DropdownMenuTrigger": {
+    "filePath": "Lib\\PHPXUI\\DropdownMenu.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\DropdownMenuContent": {
+    "filePath": "Lib\\PHPXUI\\DropdownMenu.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\DropdownMenuItem": {
+    "filePath": "Lib\\PHPXUI\\DropdownMenu.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\DropdownMenuGroup": {
+    "filePath": "Lib\\PHPXUI\\DropdownMenu.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\DropdownMenuLabel": {
+    "filePath": "Lib\\PHPXUI\\DropdownMenu.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\DropdownMenuSeparator": {
+    "filePath": "Lib\\PHPXUI\\DropdownMenu.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\DropdownMenuShortcut": {
+    "filePath": "Lib\\PHPXUI\\DropdownMenu.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\DropdownMenuSub": {
+    "filePath": "Lib\\PHPXUI\\DropdownMenu.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\DropdownMenuSubTrigger": {
+    "filePath": "Lib\\PHPXUI\\DropdownMenu.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\DropdownMenuSubContent": {
+    "filePath": "Lib\\PHPXUI\\DropdownMenu.php",
+    "baseDir": "src"
+  },
   "Lib\\PHPXUI\\Input": {
     "filePath": "Lib\\PHPXUI\\Input.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\Label": {
+    "filePath": "Lib\\PHPXUI\\Label.php",
     "baseDir": "src"
   },
   "Lib\\PHPXUI\\Portal": {
@@ -15,12 +99,48 @@
     "filePath": "Lib\\PHPXUI\\Slot.php",
     "baseDir": "src"
   },
+  "Lib\\PHPXUI\\Table": {
+    "filePath": "Lib\\PHPXUI\\Table.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\TableHeader": {
+    "filePath": "Lib\\PHPXUI\\Table.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\TableBody": {
+    "filePath": "Lib\\PHPXUI\\Table.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\TableFooter": {
+    "filePath": "Lib\\PHPXUI\\Table.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\TableRow": {
+    "filePath": "Lib\\PHPXUI\\Table.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\TableHead": {
+    "filePath": "Lib\\PHPXUI\\Table.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\TableCell": {
+    "filePath": "Lib\\PHPXUI\\Table.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\TableCaption": {
+    "filePath": "Lib\\PHPXUI\\Table.php",
+    "baseDir": "src"
+  },
   "Lib\\PPIcons\\ArrowLeft": {
     "filePath": "Lib\\PPIcons\\ArrowLeft.php",
     "baseDir": "src"
   },
   "Lib\\PPIcons\\ArrowRight": {
     "filePath": "Lib\\PPIcons\\ArrowRight.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\Bell": {
+    "filePath": "Lib\\PPIcons\\Bell.php",
     "baseDir": "src"
   },
   "Lib\\PPIcons\\Calendar": {
@@ -87,12 +207,20 @@
     "filePath": "Lib\\PPIcons\\PanelLeft.php",
     "baseDir": "src"
   },
+  "Lib\\PPIcons\\Pencil": {
+    "filePath": "Lib\\PPIcons\\Pencil.php",
+    "baseDir": "src"
+  },
   "Lib\\PPIcons\\Search": {
     "filePath": "Lib\\PPIcons\\Search.php",
     "baseDir": "src"
   },
   "Lib\\PPIcons\\Settings": {
     "filePath": "Lib\\PPIcons\\Settings.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\Trash": {
+    "filePath": "Lib\\PPIcons\\Trash.php",
     "baseDir": "src"
   },
   "Lib\\PPIcons\\Users": {

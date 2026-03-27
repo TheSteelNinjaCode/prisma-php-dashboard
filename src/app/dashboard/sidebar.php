@@ -38,9 +38,9 @@ $active = "flex items-center gap-3 px-4 py-3 rounded-xl text-indigo-600 dark:tex
                 <FileText class="size-5" />
                 <span class="font-['Manrope'] font-medium tracking-tight text-sm">Reports</span>
             </a>
-            <a class="<?= $currentUrl === '/dashboard/team' ? $active : $notActive ?>" href="#">
+            <a class="<?= $currentUrl === '/dashboard/users' ? $active : $notActive ?>" href="/dashboard/users">
                 <Users class="size-5" />
-                <span class="font-['Manrope'] font-medium tracking-tight text-sm">Team</span>
+                <span class="font-['Manrope'] font-medium tracking-tight text-sm">Users</span>
             </a>
             <a class="<?= $currentUrl === '/dashboard/settings' ? $active : $notActive ?>" href="/dashboard/settings">
                 <Settings class="size-5" />

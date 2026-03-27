@@ -66,8 +66,8 @@ function signin($data)
                         <Input placeholder="••••••••" type="password" name="password" required="true" />
                     </div>
                 </div>
-                <Button class="w-full" type="submit">
-                    Sign In
+                <Button class="w-full" type="submit" disabled="{loading}">
+                    {loading ? 'Signing In...' : 'Sign In'}
                 </Button>
             </form>
         </div>
@@ -76,12 +76,14 @@ function signin($data)
 
 <script>
     const [requestMessage, setRequestMessage] = pp.state('');
+    const [loading, setLoading] = pp.state(false);
 
     async function handleSubmit(e) {
         e.preventDefault();
         const formData = new FormData(e.target);
         const data = Object.fromEntries(formData.entries());
 
+        setLoading(true);
         const response = await pp.fetchFunction('signin', data);
 
         if (response.success) {
@@ -89,5 +91,6 @@ function signin($data)
         } else {
             setRequestMessage(response.message || 'Sign in failed. Please try again.');
         }
+        setLoading(false);
     }
 </script>

@@ -8,7 +8,22 @@
     {
       "className": "Lib\\PHPXUI\\Button",
       "filePath": "Lib\\PHPXUI\\Button.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\components\\dashboard\\users\\CreateUpdateDialog.php"
+    },
+    {
+      "className": "Lib\\PHPXUI\\Button",
+      "filePath": "Lib\\PHPXUI\\Button.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\header.php"
+    },
+    {
+      "className": "Lib\\PHPXUI\\Button",
+      "filePath": "Lib\\PHPXUI\\Button.php",
       "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\sidebar.php"
+    },
+    {
+      "className": "Lib\\PHPXUI\\Button",
+      "filePath": "Lib\\PHPXUI\\Button.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\users\\index.php"
     }
   ],
   "Input": [
@@ -16,6 +31,142 @@
       "className": "Lib\\PHPXUI\\Input",
       "filePath": "Lib\\PHPXUI\\Input.php",
       "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\(auth)\\signin\\index.php"
+    },
+    {
+      "className": "Lib\\PHPXUI\\Input",
+      "filePath": "Lib\\PHPXUI\\Input.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\components\\dashboard\\users\\CreateUpdateDialog.php"
+    },
+    {
+      "className": "Lib\\PHPXUI\\Input",
+      "filePath": "Lib\\PHPXUI\\Input.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\users\\index.php"
+    }
+  ],
+  "Dialog": [
+    {
+      "className": "Lib\\PHPXUI\\Dialog",
+      "filePath": "Lib\\PHPXUI\\Dialog.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\components\\dashboard\\users\\CreateUpdateDialog.php"
+    }
+  ],
+  "DialogClose": [
+    {
+      "className": "Lib\\PHPXUI\\DialogClose",
+      "filePath": "Lib\\PHPXUI\\Dialog.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\components\\dashboard\\users\\CreateUpdateDialog.php"
+    }
+  ],
+  "DialogContent": [
+    {
+      "className": "Lib\\PHPXUI\\DialogContent",
+      "filePath": "Lib\\PHPXUI\\Dialog.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\components\\dashboard\\users\\CreateUpdateDialog.php"
+    }
+  ],
+  "DialogDescription": [
+    {
+      "className": "Lib\\PHPXUI\\DialogDescription",
+      "filePath": "Lib\\PHPXUI\\Dialog.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\components\\dashboard\\users\\CreateUpdateDialog.php"
+    }
+  ],
+  "DialogFooter": [
+    {
+      "className": "Lib\\PHPXUI\\DialogFooter",
+      "filePath": "Lib\\PHPXUI\\Dialog.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\components\\dashboard\\users\\CreateUpdateDialog.php"
+    }
+  ],
+  "DialogHeader": [
+    {
+      "className": "Lib\\PHPXUI\\DialogHeader",
+      "filePath": "Lib\\PHPXUI\\Dialog.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\components\\dashboard\\users\\CreateUpdateDialog.php"
+    }
+  ],
+  "DialogTitle": [
+    {
+      "className": "Lib\\PHPXUI\\DialogTitle",
+      "filePath": "Lib\\PHPXUI\\Dialog.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\components\\dashboard\\users\\CreateUpdateDialog.php"
+    }
+  ],
+  "DialogTrigger": [
+    {
+      "className": "Lib\\PHPXUI\\DialogTrigger",
+      "filePath": "Lib\\PHPXUI\\Dialog.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\components\\dashboard\\users\\CreateUpdateDialog.php"
+    }
+  ],
+  "Label": [
+    {
+      "className": "Lib\\PHPXUI\\Label",
+      "filePath": "Lib\\PHPXUI\\Label.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\components\\dashboard\\users\\CreateUpdateDialog.php"
+    }
+  ],
+  "DropdownMenu": [
+    {
+      "className": "Lib\\PHPXUI\\DropdownMenu",
+      "filePath": "Lib\\PHPXUI\\DropdownMenu.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\header.php"
+    }
+  ],
+  "DropdownMenuContent": [
+    {
+      "className": "Lib\\PHPXUI\\DropdownMenuContent",
+      "filePath": "Lib\\PHPXUI\\DropdownMenu.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\header.php"
+    }
+  ],
+  "DropdownMenuGroup": [
+    {
+      "className": "Lib\\PHPXUI\\DropdownMenuGroup",
+      "filePath": "Lib\\PHPXUI\\DropdownMenu.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\header.php"
+    }
+  ],
+  "DropdownMenuItem": [
+    {
+      "className": "Lib\\PHPXUI\\DropdownMenuItem",
+      "filePath": "Lib\\PHPXUI\\DropdownMenu.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\header.php"
+    }
+  ],
+  "DropdownMenuLabel": [
+    {
+      "className": "Lib\\PHPXUI\\DropdownMenuLabel",
+      "filePath": "Lib\\PHPXUI\\DropdownMenu.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\header.php"
+    }
+  ],
+  "DropdownMenuSeparator": [
+    {
+      "className": "Lib\\PHPXUI\\DropdownMenuSeparator",
+      "filePath": "Lib\\PHPXUI\\DropdownMenu.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\header.php"
+    }
+  ],
+  "DropdownMenuShortcut": [
+    {
+      "className": "Lib\\PHPXUI\\DropdownMenuShortcut",
+      "filePath": "Lib\\PHPXUI\\DropdownMenu.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\header.php"
+    }
+  ],
+  "DropdownMenuTrigger": [
+    {
+      "className": "Lib\\PHPXUI\\DropdownMenuTrigger",
+      "filePath": "Lib\\PHPXUI\\DropdownMenu.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\header.php"
+    }
+  ],
+  "Bell": [
+    {
+      "className": "Lib\\PPIcons\\Bell",
+      "filePath": "Lib\\PPIcons\\Bell.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\header.php"
     }
   ],
   "ChartNoAxesCombined": [
@@ -67,6 +218,69 @@
       "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\sidebar.php"
     }
   ],
+  "Pencil": [
+    {
+      "className": "Lib\\PPIcons\\Pencil",
+      "filePath": "Lib\\PPIcons\\Pencil.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\users\\index.php"
+    }
+  ],
+  "Trash": [
+    {
+      "className": "Lib\\PPIcons\\Trash",
+      "filePath": "Lib\\PPIcons\\Trash.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\users\\index.php"
+    }
+  ],
+  "Table": [
+    {
+      "className": "Lib\\PHPXUI\\Table",
+      "filePath": "Lib\\PHPXUI\\Table.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\users\\index.php"
+    }
+  ],
+  "TableBody": [
+    {
+      "className": "Lib\\PHPXUI\\TableBody",
+      "filePath": "Lib\\PHPXUI\\Table.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\users\\index.php"
+    }
+  ],
+  "TableCaption": [
+    {
+      "className": "Lib\\PHPXUI\\TableCaption",
+      "filePath": "Lib\\PHPXUI\\Table.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\users\\index.php"
+    }
+  ],
+  "TableCell": [
+    {
+      "className": "Lib\\PHPXUI\\TableCell",
+      "filePath": "Lib\\PHPXUI\\Table.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\users\\index.php"
+    }
+  ],
+  "TableHead": [
+    {
+      "className": "Lib\\PHPXUI\\TableHead",
+      "filePath": "Lib\\PHPXUI\\Table.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\users\\index.php"
+    }
+  ],
+  "TableHeader": [
+    {
+      "className": "Lib\\PHPXUI\\TableHeader",
+      "filePath": "Lib\\PHPXUI\\Table.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\users\\index.php"
+    }
+  ],
+  "TableRow": [
+    {
+      "className": "Lib\\PHPXUI\\TableRow",
+      "filePath": "Lib\\PHPXUI\\Table.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\users\\index.php"
+    }
+  ],
   "PHPX": [
     {
       "className": "PP\\PHPX\\PHPX",
@@ -76,7 +290,22 @@
     {
       "className": "PP\\PHPX\\PHPX",
       "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PHPXUI\\Dialog.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PHPXUI\\DropdownMenu.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
       "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PHPXUI\\Input.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PHPXUI\\Label.php"
     },
     {
       "className": "PP\\PHPX\\PHPX",
@@ -91,12 +320,22 @@
     {
       "className": "PP\\PHPX\\PHPX",
       "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PHPXUI\\Table.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
       "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\ArrowLeft.php"
     },
     {
       "className": "PP\\PHPX\\PHPX",
       "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
       "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\ArrowRight.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\Bell.php"
     },
     {
       "className": "PP\\PHPX\\PHPX",
@@ -181,12 +420,22 @@
     {
       "className": "PP\\PHPX\\PHPX",
       "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\Pencil.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
       "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\Search.php"
     },
     {
       "className": "PP\\PHPX\\PHPX",
       "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
       "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\Settings.php"
+    },
+    {
+      "className": "PP\\PHPX\\PHPX",
+      "filePath": "..\\vendor\\tsnc\\prisma-php\\src\\PHPX\\PHPX.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PPIcons\\Trash.php"
     },
     {
       "className": "PP\\PHPX\\PHPX",
@@ -204,6 +453,42 @@
       "className": "Lib\\PHPXUI\\Slot",
       "filePath": "Lib\\PHPXUI\\Slot.php",
       "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PHPXUI\\Button.php"
+    },
+    {
+      "className": "Lib\\PHPXUI\\Slot",
+      "filePath": "Lib\\PHPXUI\\Slot.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PHPXUI\\Dialog.php"
+    },
+    {
+      "className": "Lib\\PHPXUI\\Slot",
+      "filePath": "Lib\\PHPXUI\\Slot.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PHPXUI\\DropdownMenu.php"
+    },
+    {
+      "className": "Lib\\PHPXUI\\Slot",
+      "filePath": "Lib\\PHPXUI\\Slot.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PHPXUI\\Label.php"
+    }
+  ],
+  "X": [
+    {
+      "className": "Lib\\PPIcons\\X",
+      "filePath": "Lib\\PPIcons\\X.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PHPXUI\\Dialog.php"
+    }
+  ],
+  "Portal": [
+    {
+      "className": "Lib\\PHPXUI\\Portal",
+      "filePath": "Lib\\PHPXUI\\Portal.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PHPXUI\\Dialog.php"
+    }
+  ],
+  "ChevronRight": [
+    {
+      "className": "Lib\\PPIcons\\ChevronRight",
+      "filePath": "Lib\\PPIcons\\ChevronRight.php",
+      "importer": "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\Lib\\PHPXUI\\DropdownMenu.php"
     }
   ]
 }
