@@ -1,4 +1,44 @@
 {
+  "Lib\\PHPXUI\\AlertDialog": {
+    "filePath": "Lib\\PHPXUI\\AlertDialog.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\AlertDialogTrigger": {
+    "filePath": "Lib\\PHPXUI\\AlertDialog.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\AlertDialogOverlay": {
+    "filePath": "Lib\\PHPXUI\\AlertDialog.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\AlertDialogContent": {
+    "filePath": "Lib\\PHPXUI\\AlertDialog.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\AlertDialogHeader": {
+    "filePath": "Lib\\PHPXUI\\AlertDialog.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\AlertDialogFooter": {
+    "filePath": "Lib\\PHPXUI\\AlertDialog.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\AlertDialogTitle": {
+    "filePath": "Lib\\PHPXUI\\AlertDialog.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\AlertDialogDescription": {
+    "filePath": "Lib\\PHPXUI\\AlertDialog.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\AlertDialogAction": {
+    "filePath": "Lib\\PHPXUI\\AlertDialog.php",
+    "baseDir": "src"
+  },
+  "Lib\\PHPXUI\\AlertDialogCancel": {
+    "filePath": "Lib\\PHPXUI\\AlertDialog.php",
+    "baseDir": "src"
+  },
   "Lib\\PHPXUI\\Button": {
     "filePath": "Lib\\PHPXUI\\Button.php",
     "baseDir": "src"
@@ -131,6 +171,10 @@
     "filePath": "Lib\\PHPXUI\\Table.php",
     "baseDir": "src"
   },
+  "Lib\\PHPXUI\\Toast": {
+    "filePath": "Lib\\PHPXUI\\Toast.php",
+    "baseDir": "src"
+  },
   "Lib\\PPIcons\\ArrowLeft": {
     "filePath": "Lib\\PPIcons\\ArrowLeft.php",
     "baseDir": "src"
@@ -195,6 +239,10 @@
     "filePath": "Lib\\PPIcons\\LayoutDashboard.php",
     "baseDir": "src"
   },
+  "Lib\\PPIcons\\Loader": {
+    "filePath": "Lib\\PPIcons\\Loader.php",
+    "baseDir": "src"
+  },
   "Lib\\PPIcons\\LogOut": {
     "filePath": "Lib\\PPIcons\\LogOut.php",
     "baseDir": "src"
@@ -209,6 +257,10 @@
   },
   "Lib\\PPIcons\\Pencil": {
     "filePath": "Lib\\PPIcons\\Pencil.php",
+    "baseDir": "src"
+  },
+  "Lib\\PPIcons\\Plus": {
+    "filePath": "Lib\\PPIcons\\Plus.php",
     "baseDir": "src"
   },
   "Lib\\PPIcons\\Search": {

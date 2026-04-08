@@ -8,6 +8,15 @@
             "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\index.php"
         ]
     },
+    "signin": {
+        "url": "signin",
+        "fileName": "signin",
+        "isCacheable": null,
+        "cacheTtl": 0,
+        "includedFiles": [
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\(auth)\\signin\\index.php"
+        ]
+    },
     "dashboard": {
         "url": "dashboard",
         "fileName": "dashboard",
@@ -18,18 +27,19 @@
             "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\layout.php"
         ]
     },
-    "signin": {
-        "url": "signin",
-        "fileName": "signin",
-        "isCacheable": null,
-        "cacheTtl": 0,
-        "includedFiles": [
-            "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\(auth)\\signin\\index.php"
-        ]
-    },
     "dashboard\/users": {
         "url": "dashboard\/users",
         "fileName": "dashboard_users",
+        "isCacheable": null,
+        "cacheTtl": 0,
+        "includedFiles": [
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\users\\index.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\starter-kits\\prisma-php-dashboard\\src\\app\\dashboard\\layout.php"
+        ]
+    },
+    "dashboard\/users?name=Pedro Duarte&email=pedro@example.com&password=********": {
+        "url": "dashboard\/users?name=Pedro+Duarte&email=pedro%40example.com&password=********",
+        "fileName": "dashboard_users_name_pedro_duarte_email_pedro_example_com_password_________",
         "isCacheable": null,
         "cacheTtl": 0,
         "includedFiles": [

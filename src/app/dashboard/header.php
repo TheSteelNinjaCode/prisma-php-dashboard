@@ -4,11 +4,13 @@ use Lib\PHPXUI\{Button, DropdownMenu, DropdownMenuContent, DropdownMenuGroup, Dr
 use Lib\PPIcons\Bell;
 use Lib\Auth\Auth;
 use PP\Attributes\Exposed;
+use PP\ImportComponent;
 
 $user = Auth::getInstance()->getPayload();
 
 #[Exposed(requiresAuth: true)]
-function logout() {
+function logout()
+{
     Auth::getInstance()->signOut(redirect: true);
 }
 
@@ -31,7 +33,7 @@ function logout() {
                         <DropdownMenuLabel><?= $user->name ?></DropdownMenuLabel>
 
                         <DropdownMenuGroup>
-                            <DropdownMenuItem>
+                            <DropdownMenuItem onclick="setOpenProfileDialog(true)">
                                 Profile
                                 <DropdownMenuShortcut>⇧⌘P</DropdownMenuShortcut>
                             </DropdownMenuItem>
@@ -49,7 +51,14 @@ function logout() {
         </div>
     </div>
 
+    <?php ImportComponent::render(APP_PATH . '/components/dashboard/ProfileDialog.php', [
+        'openProfileDialog' => '{openProfileDialog}',
+        'setOpenProfileDialog' => '{setOpenProfileDialog}',
+    ]); ?>
+
     <script>
+        const [openProfileDialog, setOpenProfileDialog] = pp.state(false);
+
         async function handleLogout() {
             await pp.fetchFunction('logout');
         }

@@ -1,6 +1,8 @@
 [
   "./src/app/(auth)/signin/index.php",
+  "./src/app/components/dashboard/ProfileDialog.php",
   "./src/app/components/dashboard/users/CreateUpdateDialog.php",
+  "./src/app/components/dashboard/users/DeleteDialog.php",
   "./src/app/dashboard/header.php",
   "./src/app/dashboard/index.php",
   "./src/app/dashboard/layout.php",
